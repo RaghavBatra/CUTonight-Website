@@ -5,6 +5,8 @@ html, body {
     overflow-x: hidden;
 }
 
+/* header */
+
 #header {
 
     background: #e52d27;  /* fallback for old browsers */
@@ -53,6 +55,8 @@ html, body {
     color: #232526;
 }
 
+/* footer */
+
 #footer {
     position: absolute;
     bottom: -40px;
@@ -86,4 +90,28 @@ html, body {
 
 #float_right {
     float: right;
+}
+
+#content {
+    margin-top: 6em;
+    width: 100%;
+}
+
+#left_part, #right_part {
+    padding-bottom: 10em;
+    width: 49.8%;
+    height: 54%;
+}
+
+#left_part {
+    float: left;
+}
+
+#right_part {
+    float: right;
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
 }

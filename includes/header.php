@@ -11,4 +11,5 @@
             <li><a href = "#">Apply!</a>
         </ol>';
     echo '</head>';
+    error_reporting(E_ALL);
 ?>  

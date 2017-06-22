@@ -58,7 +58,7 @@ html, body {
 /* footer */
 
 #footer {
-    position: absolute;
+    position: fixed;
     bottom: 1px;
     padding: 1em;
     width: 98.5%;
@@ -115,7 +115,7 @@ html, body {
 }
 
 /* Main page content */
-#content {
+#content_home {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
@@ -163,4 +163,11 @@ html, body {
 
 .date_information {
     color: red;
+}
+
+/* About us page */
+#content_home {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 9em;
+    margin-bottom: 6em;
 }

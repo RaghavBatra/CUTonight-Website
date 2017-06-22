@@ -6,7 +6,7 @@
     
     <body>
         
-        <div id = "content">
+        <div id = "content_home">
                 
                 <h1 id="welcome"> Welcome to the CUTonight Commission! </h1>
                 

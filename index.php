@@ -25,7 +25,7 @@
             <div id="dates">
                 
                 <p>
-                    Applications are now <b class="date_information">OPEN</b> for events being held between <b class="date_information">8/25/17</b> and <b class="date_information">10/8/17</b>. 
+                    Applications are now <b class="date_information">OPEN </b> for events being held between <b class="date_information">8/25/17</b> and <b class="date_information">10/8/17</b>. 
                 </p>
                 <p>
                 The due date for the application is <b class="date_information">4/14/17</b>.

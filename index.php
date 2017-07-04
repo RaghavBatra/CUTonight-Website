@@ -4,11 +4,12 @@
     include 'includes/header.php';
     ?>
     
-    <body>
+    <body id = "index_body">
         
-        <div id = "content_home">
+        <div id = "index_content">
+            <div>
                 
-                <h1 id="welcome"> Welcome to the CUTonight Commission! </h1>
+                <h1> Welcome to the CUTonight Commission! </h1>
                 
                 <img src="images/logo.gif" id="logo">
                 
@@ -38,6 +39,7 @@
                 </button>
                 
             </div>
+        </div>
             
         <?php
         include 'includes/footer.php';
